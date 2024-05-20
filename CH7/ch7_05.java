@@ -42,5 +42,7 @@ public class ch7_05 {
         System.out.printf("平均分數 = %.2f\n", avg);
         System.out.printf("高於平均分數的人數 = %d\n", h_count);
         System.out.printf("低於平均分數的人數 = %d\n", l_count);
+
+        sc.close();
     }   
 }

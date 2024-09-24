@@ -1,4 +1,4 @@
-package CH9;
+package CH09;
 
 class DemoConstructor{
     int age;

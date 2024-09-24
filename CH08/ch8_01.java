@@ -1,4 +1,4 @@
-package CH8;
+package CH08;
 
 class Dog{
     String name; // 定義狗的名字

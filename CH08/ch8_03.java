@@ -1,4 +1,4 @@
-package CH8;
+package CH08;
 
 class SmallMath{ // 定義SmallMath類別
     int add(int x, int y){ // 定義add方法

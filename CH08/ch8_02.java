@@ -1,4 +1,4 @@
-package CH8;
+package CH08;
 
 class TaipeiBank{
     int account; // 定義帳戶

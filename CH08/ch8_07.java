@@ -1,4 +1,4 @@
-package CH8;
+package CH08;
 
 class Teacher{
     String school = "明志科大";
